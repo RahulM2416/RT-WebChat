@@ -31,3 +31,11 @@ cd frontend
 npm install
 npm run dev
 ```
+## 📌 How It Works
+- User opens the chat application in the browser.
+
+- User connects to the server.
+
+- Messages are sent and received instantly.
+
+- All connected users receive messages in real time.
