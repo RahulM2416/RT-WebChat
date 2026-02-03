@@ -23,11 +23,11 @@ cd RT-WebChat
 ```bash
 cd backend
 npm install
-npm start
+node server.js
 ```
 ### 3️⃣ Frontend Setup
 ```bash
 cd frontend
 npm install
-npm start
+npm run dev
 ```
